@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDigital", "SDigital\SDigital.csproj", "{F140AAFE-5F6A-4626-93C0-44619E492070}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{875387B5-92A3-4D9B-B101-8E8B312F3FA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D02825A4-4DF7-4F88-8784-0EADBCE822F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDigitalTest", "SDigitalTest\SDigitalTest.csproj", "{D834F728-F77B-430E-B2E6-73EE62C294F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F140AAFE-5F6A-4626-93C0-44619E492070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F140AAFE-5F6A-4626-93C0-44619E492070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F140AAFE-5F6A-4626-93C0-44619E492070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F140AAFE-5F6A-4626-93C0-44619E492070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D834F728-F77B-430E-B2E6-73EE62C294F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D834F728-F77B-430E-B2E6-73EE62C294F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D834F728-F77B-430E-B2E6-73EE62C294F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D834F728-F77B-430E-B2E6-73EE62C294F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F140AAFE-5F6A-4626-93C0-44619E492070} = {875387B5-92A3-4D9B-B101-8E8B312F3FA4}
+		{D834F728-F77B-430E-B2E6-73EE62C294F4} = {D02825A4-4DF7-4F88-8784-0EADBCE822F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FECB749-8668-4A70-8BE6-6BA162268961}
+	EndGlobalSection
+EndGlobal
